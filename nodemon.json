@@ -1,0 +1,11 @@
+{
+    "env": {
+        "DBHOST": "127.0.0.1",
+        "DBUSER": "your_database_user",
+        "DBPASSWORD": "your_database_password",
+        "DB": "myapp_test",
+        "TOKEN_KEY": "supersecretkeytoken",
+        "REFRESH_TOKEN_KEY": "supersecretkeyrefreshtoken",
+        "EMAILS_API": "http://localhost:3010/emails"
+    }
+}

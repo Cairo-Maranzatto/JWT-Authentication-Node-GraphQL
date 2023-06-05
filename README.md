@@ -40,4 +40,5 @@
 <p>Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.</p>
 
 <h2>Contact</h2>
-<p>For any inquiries or further information, please contact <a href="mailto:cairomaranzatto.jau@gmail.com">cairomaranzatto.jau@gmail.com</a>.</p>
+  <p>Feel free to contact us via email at <a href="mailto:cairomaranzatto.jau@gmail.com">cairomaranzatto.jau@gmail.com</a> for any questions, or visit my LinkedIn profile: <a href="https://www.linkedin.com/in/cairo-maranzatto-987835206">Cairo Maranzatto</a>.</p>
+  <p>Thank you for visiting the AgendeMe repository!</p>
